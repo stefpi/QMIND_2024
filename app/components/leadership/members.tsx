@@ -83,7 +83,7 @@ function Members() {
         {
           name: "Jasmine Zangeneh",
           title: "Director of Marketing",
-          img: "",
+          img: "/headshots/Jasmine_Zangeneh.png",
           class: "leadershipCardOperations",
           social: "",
         },
